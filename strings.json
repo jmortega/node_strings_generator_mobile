@@ -1,0 +1,21 @@
+{
+    "availableLangs": [
+        "es-ES",
+        "en-EN"
+    ],
+    "lng": {
+        "generic": {            
+            "appName": {
+                "es-ES": "Aplicación Mobile",
+                "en-EN": "Mobile application"
+            },
+			"title": {
+                "es-ES": "Titulo",
+                "en-EN": "Title"
+            }
+        }
+    }
+}
+
+
+
